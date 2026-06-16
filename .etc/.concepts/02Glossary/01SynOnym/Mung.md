@@ -1,0 +1,36 @@
+- "I just zoned out during the meeting." (회의 중에 그냥 멍해졌어.)
+- "My mind just went blank." (머릿속이 멍해지면서 아무 생각이 안 나.)
+- "Sorry, I was spacing out for a second." (미안, 잠시 멍 때리고 있었어.)
+- 만약 '멍 때리기 대회' 같은 고유 명사를 설명하신다면, **"Meong-tteorigi (Space-out competition)"**와 같이 한국어 발음을 먼저 적고 괄호 안에 의미를 적어주는 것이 센스 있는 표기법이 될 거예요!
+- Blanking out: 머릿속이 하얘졌을 때 사용합니다.
+- Meong: 공식적인 표기법입니다. (예: 멍멍이 -> Meongmeong-i)
+- Mung: 질문하신 것처럼 'u'를 쓰는 경우도 많습니다. 다만, 영어권 사용자가 읽을 때 '멍'보다는 '뭉'에 가까운 소리로 읽을 가능성이 높습니다.
+- Spacing out: 가장 대중적인 표현입니다. 정신이 다른 데 가 있는 상태를 말해요.
+- Zoning out: 의식이 희미해지면서 멍해지는 느낌입니다.
+- Meong
+- `Meong`
+- `Meong`-표준적
+- Meong.멍
+- Meong.메옹
+- Mung
+- `Mung`
+- `Mung`.`Meong`
+- `Mung`<<`Meong`-표준성
+- `Mung`>>`Meong`-경제성
+- `Mung`>>`Meong`-경량성
+- `Mung`>>`Meong`-조어적형태ㄱㄱ.
+- `Mung`>>`Meong`-발음만통하면된다.ㄱㄱ.
+- `Mung`>>`Meong`-조어형성ㄱㄱ.
+- `Mung`>>`Meong`-경량성.내스타일ㄱㄱ.
+- `Mung`-비틀기통한 어그로ㄱㄱ.
+- `Mung`-비틀기ㄱㄱ.
+- `Mung`-걍멍청해보여도 걍ㄱㄱ.
+- `Mung`-경량적
+- `Mung`-경량성ㄱㄱ.
+- `Mung`-최적화ㄱㄱ.
+- `Mung`-각인적
+- Mung.멍
+- Mung.뭉
+- 'Meong'은 주로 한국어에서 개가 짖는 소리인 '멍멍(meong meong)'을 나타내는 의성어이거나, 정신을 놓고 있는 상태를 뜻하는 '멍 때리다'의 '멍(meong)'을 의미합니다. 
+- 'Mung'은 주로 녹두(Mung bean)를 뜻하며, 방글라데시, 인도, 파키스탄이 원산지인 작은 녹색 콩을 말합니다.
+- Mung or munge is computer jargon for a series of potentially destructive or irrevocable changes to a piece of data or a file.

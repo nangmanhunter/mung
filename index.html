@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mung</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        #header{
+            /* box-shadow: 0 0 3px white; */
+            /* box-shadow: 0 0 10px 2px rgba(255, 255, 255, 0.8); */
+            /* box-shadow: 0 0 5px #fff, 
+                0 0 15px #3b82f6, 
+                0 0 30px #3b82f6; */
+                
+            /* outline: 3px solid #3b82f6;
+            box-shadow: 0 0 10px #3b82f6; */
+                
+            text-shadow: 0 0 8px #fff, 0 0 15px #00bfff;
+        }
+    </style>
+
+
+
+</head>
+<body>
+
+
+    <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+        <h1 id="header">Color Test</h1>
+        <input id="input-mung" type="color">
+    </div>
+
+
+
+</body>
+</html>
+<script>
+    const inputMung = document.getElementById('input-mung');
+    const header = document.getElementById('header');
+    inputMung.addEventListener('input', (event) => {
+        const color = event.target.value;
+        console.log(`Selected color: ${color}`);
+        document.body.style.backgroundColor = color;
+        // header.hidden = true;
+
+    });
+
+</script>
